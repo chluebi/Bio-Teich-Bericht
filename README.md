@@ -4,8 +4,8 @@
 
 ### LU
 
-- Einleitung
-- Material und Methoden
+- Einleitung ✔️
+- Material und Methoden ✔️
 - Diskussion Wasseranalyse
 
 ### Bas
