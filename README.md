@@ -1,14 +1,10 @@
 # Bio-Teich-Bericht
+Repository für einen Biologie Teich Bericht. Der Bericht ist nicht öffentlich zugänglich.
 
-## TODO
+### Tags
 
-### LU
+#### Languages
+- LaTeX
 
-- Einleitung ✔️
-- Material und Methoden ✔️
-- Diskussion Wasseranalyse ✔️
-
-### Bas
-
-- Nahrungsnetzwerke ✔️
-- Diskussion Nahrungsnetzwerke
+#### Miscellaneous
+- German
